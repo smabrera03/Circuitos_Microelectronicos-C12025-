@@ -1,0 +1,2 @@
+#Necesito ignorar un par de archivos demasiado grandes
+libros\Ejemplos de ejercicios (Applied_electronics_PierceyPaulus).pdf

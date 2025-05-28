@@ -1,0 +1,85 @@
+Circuit: * C:\Users\PC\Desktop\MATERIAS FIUBA\Circuitos Microelectronicos\Final que me tomaron\final que me tomaron.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- Bipolar Transistors ---
+Name:       q1          q2          q3          q4          q6
+Model:     mynpn       mynpn       mynpn       mynpn       mynpn
+Ib:       2.42e-06    2.42e-06    4.91e-06    2.09e-05    2.01e-05
+Ic:       5.03e-04    5.04e-04    1.01e-03    4.12e-03    4.12e-03
+Vbe:      6.37e-01    6.37e-01    6.55e-01    6.93e-01    6.92e-01
+Vbc:     -3.97e+00   -4.19e+00   -3.53e+00    0.00e+00   -3.97e+00
+Vce:      4.61e+00    4.82e+00    4.18e+00    6.93e-01    4.67e+00
+BetaDC:   2.08e+02    2.08e+02    2.06e+02    1.97e+02    2.05e+02
+Gm:       1.94e-02    1.95e-02    3.90e-02    1.57e-01    1.57e-01
+Rpi:      1.07e+04    1.07e+04    5.27e+03    1.24e+03    1.29e+03
+Rx:       1.00e+01    1.00e+01    1.00e+01    1.00e+01    1.00e+01
+Ro:       2.07e+05    2.07e+05    1.02e+05    2.43e+04    2.52e+04
+Cbe:      4.64e-11    4.64e-11    5.48e-11    1.03e-10    1.03e-10
+Cbc:      5.45e-13    5.37e-13    5.63e-13    1.00e-12    5.45e-13
+Cjs:      0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+BetaAC:   2.07e+02    2.08e+02    2.06e+02    1.95e+02    2.03e+02
+Cbx:      0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Ft:       6.58e+07    6.59e+07    1.12e+08    2.40e+08    2.42e+08
+
+Name:       q7          q8          q9          q10         q12
+Model:     mynpn       mynpn       mynpn       mynpn       mynpn
+Ib:       2.42e-06    2.42e-06    4.91e-06    2.09e-05    2.01e-05
+Ic:       5.04e-04    5.04e-04    1.01e-03    4.12e-03    4.12e-03
+Vbe:      6.36e-01    6.36e-01    6.55e-01    6.93e-01    6.92e-01
+Vbc:     -4.18e+00   -4.19e+00   -3.53e+00    0.00e+00   -3.97e+00
+Vce:      4.82e+00    4.82e+00    4.18e+00    6.93e-01    4.67e+00
+BetaDC:   2.08e+02    2.08e+02    2.06e+02    1.97e+02    2.05e+02
+Gm:       1.94e-02    1.94e-02    3.90e-02    1.57e-01    1.57e-01
+Rpi:      1.07e+04    1.07e+04    5.27e+03    1.24e+03    1.29e+03
+Rx:       1.00e+01    1.00e+01    1.00e+01    1.00e+01    1.00e+01
+Ro:       2.07e+05    2.07e+05    1.02e+05    2.43e+04    2.52e+04
+Cbe:      4.64e-11    4.64e-11    5.48e-11    0.00e+00    0.00e+00
+Cbc:      5.37e-13    5.37e-13    5.63e-13    0.00e+00    0.00e+00
+Cjs:      0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+BetaAC:   2.08e+02    2.08e+02    2.06e+02    1.95e+02    2.03e+02
+Cbx:      0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Ft:       6.59e+07    6.59e+07    1.12e+08    0.00e+00    0.00e+00
+
+Name:       q5          q11         q13         q14
+Model:     mypnp       mypnp       mypnp       mypnp
+Ib:      -1.99e-05   -1.99e-05   -2.44e-06   -2.50e-06
+Ic:      -4.10e-03   -4.10e-03   -4.87e-04   -4.99e-04
+Vbe:     -6.92e-01   -6.92e-01   -6.37e-01   -6.37e-01
+Vbc:      4.38e+00    4.38e+00   -8.92e-03    0.00e+00
+Vce:     -5.07e+00   -5.07e+00   -6.28e-01   -6.37e-01
+BetaDC:   2.06e+02    2.06e+02    2.00e+02    2.00e+02
+Gm:       1.57e-01    1.57e-01    1.88e-02    1.92e-02
+Rpi:      1.30e+03    1.30e+03    1.06e+04    1.04e+04
+Rx:       1.00e+01    1.00e+01    1.00e+01    1.00e+01
+Ro:       2.54e+04    2.54e+04    2.05e+05    2.00e+05
+Cbe:      0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbc:      0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cjs:      0.00e+00    0.00e+00    0.00e+00    0.00e+00
+BetaAC:   2.03e+02    2.03e+02    1.99e+02    1.99e+02
+Cbx:      0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Ft:       0.00e+00    0.00e+00    0.00e+00    0.00e+00
+
+
+
+Date: Thu Dec 12 21:02:53 2024
+Total elapsed time: 0.051 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 8
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 74
+fillins = 28
+solver = Normal
+Avg thread counts: 8.0/0.0/8.0/2.5
+Matrix Compiler1:     397 opcodes
+Matrix Compiler2: 7.00 KB object code size
